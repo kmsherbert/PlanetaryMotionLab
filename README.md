@@ -64,6 +64,9 @@ But Kepler's First Law states that the orbit must be around the *Sun*. Where is 
 
 1. Add in a new "planet" with $a=0, e=0$. (What should we name it?)
 
+   > Hint: All the planets will go into a *list*, which is defined inside of square brackets `[` `]`.
+   > Find the list where the Earth is defined, and add another item just like it inside the same brackets.
+
    > Your simulation should now look like this:
 
    ![Animation 1](figs/animation_1.png)
