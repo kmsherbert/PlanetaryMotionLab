@@ -1,5 +1,7 @@
 # Planetary Motion
 
+Find this assingment at https://github.com/kmsherbert/PlanetaryMotionLab
+
 The file `planetarymotion.py` in this repository contains a Python program which simulates planetary motion about the sun.
 
 However, it's a little broken.
