@@ -123,6 +123,12 @@ The $k$ here is some constant number. Kepler's Third Law doesn't tell us what va
 
 9. The function `ellipse_period` is supposed to give the orbital period for a planet in our solar system. Fix it!
 
+   > Hint: Use the forward slash `/` to divide two variables in Python.
+
+   > Hint: Use two asterisks `**` for exponents in Python. For example, `x**3` will compute $x^3$.
+
+   > Hint: To compute square roots, use the special `sqrt` function.
+
 10. Check your work by adding the planet Mars ($a=1.5273 \mathrm{AU}, e=0.093$) to the simulation. (You can remove the hypothetical planet you made earlier, if you'd like.)
 
     > Mars is observed to have has an orbital period of 1.8809 years. Run your simulation for that long.
